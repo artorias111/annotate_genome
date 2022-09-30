@@ -1,2 +1,2 @@
-# annotate_genome
+# pyannotate
 A snakemake pipeline to annotate genomes
